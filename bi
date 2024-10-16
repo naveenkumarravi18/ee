@@ -5,5 +5,5 @@ s Node {
     {
         key = item;
         left = right = null;
-    }
+    }mnvj
 }
